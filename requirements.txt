@@ -1,0 +1,6 @@
+streamlit==1.38.0
+pdf2docx
+pdfplumber
+python-docx
+pytesseract
+pillow
