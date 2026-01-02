@@ -1,6 +1,6 @@
-streamlit==1.38.0
+streamlit
 pdf2docx
 pdfplumber
 python-docx
-pytesseract
 pillow
+
